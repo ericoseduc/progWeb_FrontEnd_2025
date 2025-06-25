@@ -8,8 +8,10 @@
 * Back-end
 
 ### Colaboradores que já contribuiram:
-* :TODO: Colocar a lista aqui
+<a href="https://github.com/ericoseduc/progWeb_FrontEnd_2025/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ericoseduc/progWeb_FrontEnd_2025">
+</a>
 
 ### Colaboradores que aceitaram o convite:
-* :TODO: Colocar a lista aqui
+[* :TODO: Colocar a lista aqui](https://github.com/ericoseduc/progWeb_FrontEnd_2025/settings/access?query=filter%3Acollaborators)
 
