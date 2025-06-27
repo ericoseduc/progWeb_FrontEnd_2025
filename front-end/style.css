@@ -35,7 +35,7 @@ h1{
 }
 
 .selecionado{
-    background-color: bisque;
+    background-color: rgb(243, 154, 46);
     color: hsl(251, 85%, 57%);
 }
 
@@ -72,8 +72,8 @@ li{
     margin-bottom: 0px;
     list-style: none;
 }
-
+/* 
 li:hover{
     background-color: greenyellow;
     font-size: 3rem;
-}
+} */
