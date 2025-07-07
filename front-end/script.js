@@ -10,14 +10,16 @@ const data = document.querySelector('#data_date');
 let hoje = new Date();
 console.log(hoje);
 
-data.innerHTML = hoje.toLocaleDateString('PT-BR',{
-    day:"2-digit",
-    month:"2-digit",
-    year:"numeric",
-    hour:"2-digit",
-    minute:"2-digit",
-    second:"2-digit"
-});
+const tempo = setInterval(() => {
+    data.innerHTML = hoje.toLocaleDateString('PT-BR',{
+        day:"2-digit",
+        month:"2-digit",
+        year:"numeric",
+        hour:"2-digit",
+        minute:"2-digit",
+        second:"2-digit"
+    })
+}, 1000);
 
 const listaDeAlunos = document.querySelectorAll('li');
 console.log(listaDeAlunos);
