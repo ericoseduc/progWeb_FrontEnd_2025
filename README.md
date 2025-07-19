@@ -8,6 +8,8 @@
 * Back-end
 
 ### Colaboradores que já contribuiram:
-<a href="https://github.com/ericoseduc/progWeb_FrontEnd_2025/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=ericoseduc/progWeb_FrontEnd_2025">
-</a>
+* :TODO: Colocar a lista aqui
+
+### Colaboradores que aceitaram o convite:
+* :TODO: Colocar a lista aqui
+
